@@ -1,0 +1,79 @@
+#logo{
+	background-image: linear-gradient(rgba(255,100,0,1),red);
+	width: auto;
+	height: 100px;
+	text-align: center;
+
+	}
+
+body{
+	background-image: linear-gradient(rgba(0,10,0,1),rgba(0,0,0,0.2)), url("back.jpg") ;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body p{
+	color:white;
+
+}
+.nav button{
+    margin:5px;
+	padding:5px;
+}
+#quemsomos{
+	background-image: linear-gradient(rgba(255,100,0,1), rgba(0, 0, 254, 0.4));
+	border: solid black 10px;
+	border-radius: 10px;
+	box-shadow: 10px 5px  4px 3px  red;
+}
+footer{
+background-image: linear-gradient(rgba(255,100,0,1),red);
+	width: auto;
+	height: 100px;
+	text-align: justify;
+	color:white;
+
+}
+
+form label{
+	color:black;
+}
+form{
+	border: solid black 10px;
+	background-image: linear-gradient( rgba(10,200,100,3.0),rgba(255,100,0,1));
+	padding: 10px;
+	font-weight: 700;
+	border-radius: 10px;
+
+
+}
+
+#anuncio{
+	width: 50px;
+	height: 200px;
+	background: black;
+	border:solid red 10px;
+
+
+}
+.btn{
+	background: red;
+}
+#texto{
+	border:solid black 2px;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	background: green;
+	font-weight: 600;
+	color:white;
+}
+#imagem{
+	width: 100%;
+	height: 200px;
+	border: solid black 10px;
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 10px 5px  4px 3px  red;
+}
